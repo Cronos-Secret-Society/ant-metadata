@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #252",
+    "file": "nft_252.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_252.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Blue Arctic"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Yellow Cheetah"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "None"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "420 Antz Army"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Green"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Flattop Haircut"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Blue & Pink Paisley"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Red"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Pokerface Fatty Joint"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "Sukauta"
+        }
+    ]
+}

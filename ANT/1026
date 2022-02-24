@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #1026",
+    "file": "nft_1026.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_1026.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Purple Grape"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Purple Candy"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Vice City Shirt"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Shark Teeth"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Cro Squad Cap"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Grey Stone"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Grey Stone"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Happy"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "Nino B. Square Sunglasses"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #451",
+    "file": "nft_451.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_451.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Blue Arctic"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Grey Stone"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Cronos County Jail Suit #420069"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Music Headphone"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "White"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "HODL Cap"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "None"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Grey & Black Tats"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "12K Gold Teeth"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

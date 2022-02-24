@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #2073",
+    "file": "nft_2073.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_2073.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "White & Black Paisley"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Ambanja Chameleon"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "L.A Ants Kings Jersey"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "ALL EYEZ ON CRO"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Blue Chillin'"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "None"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Iced Drip"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Grey Stone"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Cuban Cigar"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

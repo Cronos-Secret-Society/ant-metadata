@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #691",
+    "file": "nft_691.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_691.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Red"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Ghost w/ Blue Tats"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Black Tank Antz In The Hood"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "WGMI Chain"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Red"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Black Do-rag WAGMI"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Green Snake"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Ear of Wheat"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #2248",
+    "file": "nft_2248.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_2248.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Blue & Purple Trippy Web"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Blue Sky"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Black Tank Antz In The Hood"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "420 Antz Army"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "White"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Cronos Cap"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Purple Cheshire"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Gelato 41"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "12K Gold Teeth"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

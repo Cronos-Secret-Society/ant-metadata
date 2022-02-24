@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #518",
+    "file": "nft_518.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_518.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Blue Teal"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Blue Winter"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Fashion Week Thug Green Outfit"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "WGMI Chain"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "White"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Cro Squad Cap"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Iced Drip"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Bronze"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Zipped Lips"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

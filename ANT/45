@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #45",
+    "file": "nft_45.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_45.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Yellow Golden"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Majjin Ant"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Buuu Outfit"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Purple Cape"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Madness"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "None"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Buuu"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Buuu"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Yummy"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

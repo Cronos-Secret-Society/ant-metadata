@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #906",
+    "file": "nft_906.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_906.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Blue Arctic"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Cowhide"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Gin & Juice Blue Bandana Jacket"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "WGMI Chain"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Red"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Cro Squad Cap"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Woodland Camo"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Ant Coastal Skin"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Goatee Beard"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "C. Bagatelle"
+        }
+    ]
+}

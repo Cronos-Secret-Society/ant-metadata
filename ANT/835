@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #835",
+    "file": "nft_835.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_835.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Pink Punch"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Cowhide"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Gin & Juice Blue Bandana Jacket"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Hawaiian Flowers Collar"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Pink Butta"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Wicks"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Green"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Pokerface"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

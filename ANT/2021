@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #2021",
+    "file": "nft_2021.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_2021.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Yellow Mustard"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Blue w/ Black Tats"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "46th Grammy Awards Snoop Suit"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Black Bandana"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Red Chillin'"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "GM Cap"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Gelato 41"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Hyena"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Kush Pipe"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "P. Smoke Rimless"
+        }
+    ]
+}

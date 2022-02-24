@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #853",
+    "file": "nft_853.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_853.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Robot"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Huggy Bear Suit"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "ALL EYEZ ON CRO"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Stoned"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Mullet Mullet"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Flames"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Bronze"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Salvador Dalí Stache"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

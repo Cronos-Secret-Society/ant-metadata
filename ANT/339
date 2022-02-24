@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #339",
+    "file": "nft_339.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_339.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "White & Black Paisley"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Grey & Pink Paisley"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Fashion Week Thug Green Outfit"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "CSS DEGEN Chain"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "White"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Walter W. Oxygen Mask"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Black Carbon"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Pokerface"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

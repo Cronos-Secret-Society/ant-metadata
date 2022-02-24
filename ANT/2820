@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #2820",
+    "file": "nft_2820.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_2820.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Multicolor Mandala"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Red w/ Dark Blue Tats"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Baby GQ Outfit"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "GM Chain"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "White"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Black Cap CSS X X"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Green Snake"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Bored"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "None"
+        }
+    ]
+}

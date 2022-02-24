@@ -1,0 +1,48 @@
+{
+    "name": "Southside Ant #1305",
+    "file": "nft_1305.png",
+    "description": "3 333 SouthSide Ants from the Cronos Secret Society.",
+    "image": "https://398dofhadsf.cronossociety.com/img/nft_1305.png",
+    "attributes": [
+        {
+            "trait_type": "BACKGROUND",
+            "value": "Symmetrical Motley Hippie Trippy"
+        },
+        {
+            "trait_type": "SKIN",
+            "value": "Multicolor Mandala"
+        },
+        {
+            "trait_type": "DRIP",
+            "value": "Yellow Reflective Jacket"
+        },
+        {
+            "trait_type": "NECK",
+            "value": "Black Bandana"
+        },
+        {
+            "trait_type": "EYES",
+            "value": "Blue Angry"
+        },
+        {
+            "trait_type": "HEAD",
+            "value": "Sombrero"
+        },
+        {
+            "trait_type": "ANTENNAE",
+            "value": "Blue Maya Intricate"
+        },
+        {
+            "trait_type": "MANDIBLES",
+            "value": "Rhino Grey"
+        },
+        {
+            "trait_type": "MOUTH",
+            "value": "Rose"
+        },
+        {
+            "trait_type": "GLASSES",
+            "value": "Holographic Glasses"
+        }
+    ]
+}
